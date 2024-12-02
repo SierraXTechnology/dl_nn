@@ -5,3 +5,4 @@
 ### [Convolutional Neural Networks (CNN)](cnn.ipynb)
 ### [Functional API Keras](functional_api_keras.ipynb)
 ### [Creating Custom Layers and Models](custom_layers_and_models.ipynb)
+### [Data Augmentation](data_augmentation.ipynb)
