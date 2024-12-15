@@ -6,3 +6,4 @@
 ### [Functional API Keras](functional_api_keras.ipynb)
 ### [Creating Custom Layers and Models](custom_layers_and_models.ipynb)
 ### [Data Augmentation](data_augmentation.ipynb)
+### [Transfer Learning](transfer_learning.ipynb)
