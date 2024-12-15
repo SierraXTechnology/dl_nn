@@ -14,4 +14,6 @@
 
 ### [Data Augmentation](data_augmentation.ipynb)
 
-### [Transfer Learning](transfer_learning.ipynb) [Tips for Transfer Learning](tips_for_transfer_learning.png)
+### [Transfer Learning](transfer_learning.ipynb)
+
+#### [Tips for Transfer Learning](tips_for_transfer_learning.png)
